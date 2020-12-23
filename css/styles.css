@@ -1,0 +1,24 @@
+body {
+  background-color: #FBF6F0;
+  border-style: none;
+  font-size: 18px;
+  line-height: 125%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1, h3{
+  color: #DF7861
+}
+h3{
+  font-size: 20px
+}
+li{
+  margin: 20px;
+}
